@@ -40,5 +40,5 @@
 - Shodan.io https://www.shodan.io/
 
      ## TIP
-- IntelX
+- IntelX https://intelx.io/
   
