@@ -24,20 +24,20 @@
 
 ## IP and url reputation check
  - Abuse IPDB https://www.abuseipdb.com/
- - IPVoid
- - Sitelookup mcaffe
- - Greynose
+ - IPVoid https://www.ipvoid.com/
+ - Sitelookup mcaffe https://sitelookup.mcafee.com/
+ - Greynose https://viz.greynoise.io/
 
 
    ## Secures Navigation
 
-- Urlscan.io
-- Browserling
+- Urlscan.io https://urlscan.io/
+- Browserling https://www.browserling.com/
 
      ## Search Engine
 - Google dorks
-- Hunter.io
-- Showdan.io
+- Hunter.io https://hunter.io/
+- Shodan.io https://www.shodan.io/
 
      ## TIP
 - IntelX
