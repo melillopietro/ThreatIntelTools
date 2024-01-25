@@ -12,18 +12,18 @@
 
 
 ## Sandbox
- - Virustotal
- - Ibrid analysis
- - Any run
- - IBM X-Force Exchange
+ - Virustotal https://www.virustotal.com/gui/home/upload
+ - Ibrid Analysis https://www.hybrid-analysis.com/
+ - Any.Run https://app.any.run/
+ - IBM X-Force Exchange https://exchange.xforce.ibmcloud.com/
 
 ## Information IP
- - Who is? domain tools
- - Central OPS
+ - Who is? domain tools https://whois.domaintools.com/
+ - Central OPS https://centralops.net/co/
 
 
 ## IP and url reputation check
- - Abuse IPDB
+ - Abuse IPDB https://www.abuseipdb.com/
  - IPVoid
  - Sitelookup mcaffe
  - Greynose
